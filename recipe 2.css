@@ -1,0 +1,94 @@
+div{margin: auto;
+left: 50%;
+right: 50%}
+
+.omellete-image{border-radius: 7px;
+object-fit: cover;
+margin-top: 30px;
+flex: 1;
+width:100%;
+}
+
+.image{ padding-left: 1px;
+padding-right: 1px;}
+li::marker{color:brown;}
+
+li{margin-bottom: 12px;}
+
+.recipe{
+font-family: Arial, Roboto;
+font-size: 15px;
+background-color: white;
+border-radius: 20px;
+flex: 1;
+max-width: 50%;
+padding-left: 30px;
+padding-right: 30px;
+line-height: 1.5;
+padding-bottom: 30px;
+}
+.paragraph1{
+  color: rgb(105, 105, 105);
+  margin-bottom: 20px;
+}
+.ordered-line{color: rgb(85, 81, 81);}
+
+
+.header1{font-family: 'Times New Roman', Times, serif;
+}
+
+.back{background-color: rgb(238, 223, 209);
+background-size: cover;
+position: absolute;
+padding-bottom: 100px;}
+
+.prepare{color: brown;
+padding-left: 20px;
+line-height: 0.20;
+
+}
+.preparation{background-color:  rgb(255, 242, 244);
+line-height: 1.2;
+padding-bottom: 10px;
+padding-top: 10px; 
+border-radius: 12px;}
+span{font-weight: bold;}
+
+.ingredient, .instruction{color: brown;
+font-family: Young Serif, serif;
+  font-weight: 400 500 700;
+  font-style: normal;
+  font-size: 22px;}
+
+  .table{border-collapse:collapse;
+   }
+   td{border-bottom: 1px solid rgb(175, 175, 175);
+    
+}
+
+   .nutrition{color:brown;
+  margin-bottom: 5px;
+font-family: Young Serif, serif;
+font-size: 22px;}
+
+.number1{font-weight: normal;
+margin-left: 270px;
+color: brown;
+font-weight: bold;}
+
+.number2{font-weight: normal;
+margin-left: 290px;
+color: brown;
+font-weight: bold;}
+
+.number3{font-weight: normal;
+margin-left: 280px;
+color: brown;
+font-weight: bold;}
+
+.number4{font-weight: normal;
+margin-left: 307px;
+color: brown;
+font-weight: bold;}
+
+p{margin-bottom: 1px;}
